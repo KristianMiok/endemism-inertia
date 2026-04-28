@@ -22,7 +22,6 @@ OUTPUT_DIR = PROJECT_ROOT / "data" / "processed" / "task2_projections"
 COHORT = [
     ("Austropotamobius bihariensis", "austropotamobius_bihariensis", "Europe"),
     ("Cambaroides similis", "cambaroides_similis", "Asia"),
-    ("Parastacus pugnax", "parastacus_pugnax", "South America"),
     ("Cambarus eeseeohensis", "cambarus_eeseeohensis", "North America"),
     ("Cambarus reburrus", "cambarus_reburrus", "North America"),
     ("Cambarus elkensis", "cambarus_elkensis", "North America"),

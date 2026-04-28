@@ -20,7 +20,6 @@ OUTPUT_DIR = PROJECT_ROOT / "data" / "processed" / "task3_realized"
 COHORT = [
     ("Austropotamobius bihariensis", "austropotamobius_bihariensis"),
     ("Cambaroides similis", "cambaroides_similis"),
-    ("Parastacus pugnax", "parastacus_pugnax"),
     ("Cambarus eeseeohensis", "cambarus_eeseeohensis"),
     ("Cambarus reburrus", "cambarus_reburrus"),
     ("Cambarus elkensis", "cambarus_elkensis"),

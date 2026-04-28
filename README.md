@@ -231,15 +231,3 @@ The initial cohort follows Lucian's email:
 - Cambarus hatfieldi
 
 ---
-
-## Notes for Kristian
-
-This is a packaging/export project, not a modeling project.
-
-Before trusting the outputs, verify:
-
-1. the input metrics are from `full_geofresh/GBM`;
-2. the presence table contains the same thinned presences used for model fitting;
-3. continental predictions are projected only to the species' continent of origin;
-4. suitability scores are not compared directly across species without species-specific thresholding;
-5. all exported coordinates are WGS84 longitude/latitude.

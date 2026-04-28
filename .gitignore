@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+
+# Data outputs
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/processed/task1_qc/.gitkeep
+!data/processed/task2_projections/.gitkeep
+!data/processed/task3_realized/.gitkeep
+
+# Logs
+logs/
+*.log
